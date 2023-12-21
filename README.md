@@ -44,6 +44,8 @@ LocalBite fosters a more inclusive and accessible food landscape, empowering use
 
 # Cloud Computing Approach
 
+![google_cloud_service_and_backend_side](https://storage.googleapis.com/localbite-asset/CCjayajayajaya.png)
+
 ## Backend Development
 
 Established a robust NodeJS-based backend server featuring an array of crucial API endpoints:
