@@ -1,6 +1,6 @@
 # Welcome to LocalBite
 
-## What We Aim to Achieve
+### What We Aim to Achieve
 
 LocalBite is dedicated to addressing critical real-world challenges in nutrition, health, and the culinary landscape. Our primary goals are:
 
