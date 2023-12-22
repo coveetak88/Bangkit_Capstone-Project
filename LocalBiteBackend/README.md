@@ -16,8 +16,6 @@ The LocalBite backend API is live and can be accessed at the following endpoint:
 https://backend-6uf4oi4e3q-et.a.run.app/
 ```
 
-Replace `localbite-backend-url.com` with the actual URL provided.
-
 ## API Documentation
 
 Explore the API's capabilities using the Swagger documentation. The documentation is available at the following URL:
