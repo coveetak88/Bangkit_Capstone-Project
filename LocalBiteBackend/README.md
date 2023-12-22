@@ -46,8 +46,7 @@ Before getting started, ensure you have the following installed:
 2. Navigate to the backend directory:
 
    ```bash
-   cd Bangkit_Capstone-Project/backend-side
-   ```
+   cd Bangkit_Capstone-Project/LocalBiteBackend
 
 3. Install dependencies:
 
